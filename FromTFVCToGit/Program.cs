@@ -6,7 +6,7 @@ namespace FromTFVCToGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Great change!");
+            Console.WriteLine("Hello World! Great change!!");
         }
     }
 }
